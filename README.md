@@ -10,6 +10,6 @@
 - 📫Please feel free to connect through this profile or via email :
   📧 hannylevy63@gmail.com
   
-- 😄 My Linkdin profile: https://www.linkedin.com/in/hanny-levy-471039197/
+- 😄 My Linkdin profile: https://www.linkedin.com/in/hanny-levy/
 - ⚡ Fun fact: In my free time I love to cook and play with my nieces 
 
