@@ -3,7 +3,7 @@
 
 **Hanny-Levy/Hanny-Levy** is a ✨ _special_ ✨ repository because its **MY repository** !
 
-- 🌱 I’m currently studying for a Computer Science degree at Ashkelon Academic College , starting my third year .
+- 🌱 I’m currently studying for a Computer Science degree at Ashkelon Academic College , starting my third year 
 
 - 👯 I’m looking to collaborate on projects on Java 
 
@@ -11,5 +11,5 @@
   📧 hannylevy63@gmail.com
   
 - 😄 My Linkdin profile: https://www.linkedin.com/in/hanny-levy-471039197/
-- ⚡ Fun fact: In my free time I love to cook and play with my nieces .
+- ⚡ Fun fact: In my free time I love to cook and play with my nieces 
 
