@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Hanny-Levy/Hanny-Levy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hanny-Levy/Hanny-Levy** is a ✨ _special_ ✨ repository because its **MY repository** !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently studying for a Computer Science degree at Ashkelon Academic College , starting my third year .
+
+- 👯 I’m looking to collaborate on projects on Java 
+
+- 📫Please feel free to connect through this profile or via email :
+  📧 hannylevy63@gmail.com
+  
+- 😄 My Linkdin profile: https://www.linkedin.com/in/hanny-levy-471039197/
+- ⚡ Fun fact: In my free time I love to cook and play with my nieces .
+
