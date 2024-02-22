@@ -3,7 +3,7 @@
 
 **Hanny-Levy/Hanny-Levy** is a ✨ _special_ ✨ repository because its **MY repository** !
 
-- 🌱 Third year Computer Science Student at Ashkelon Academic College 
+- 🌱 Computer Science Graduated
 
 - 👯 I’m looking to collaborate on projects on Java , JavaScript , React.js 
 
